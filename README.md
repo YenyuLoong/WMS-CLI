@@ -7,26 +7,25 @@
 ---
 
 ## 获取源代码
-### 通过git：
+### Git版本控制工具：
 * <code>git clone https://github.com/paslone/WMS-CLI.git</code>
 
-### 下载zip包：
-* <a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目ZIP包</a>
+### 下载zip压缩包：
+* <a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目ZIP压缩包</a>
 
 ---
 
-## 源代码编译
-**Windows操作系统（最好把MinGW中的bin目录添加到系统的PATH环境变量中）**
+## 构建项目
+### Windows操作系统（最好把MinGW中的bin目录添加到系统的PATH环境变量中）
+1.编译源代码
 * 使用MinGW make自动构建：
   <p><code>mingw32-make -f Makefile.win</code></p>
 * 使用MinGW GCC手动编译构建：
   <p><code>gcc -o wms.exe wms.c</code></p>
 
----
-
-## 添加Demo演示数据文件
+2.添加Demo演示数据文件
 *（这不是必要的，Demo演示数据文件中预先包含了一些演示用的员工数据，并且，程序运行时候若没有发现数据文件，会新建一个空的数据文件）*
-**Windows操作系统（最好把MinGW中的bin目录添加到系统的PATH环境变量中）**
+
 * 使用MinGW make自动构建：
   <p><code>mingw32-make -f Makefile.win demofile</code></p>
 * 手动复制：
