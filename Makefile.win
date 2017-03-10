@@ -1,0 +1,9 @@
+all:
+	gcc -Wall -o build\wms.exe wms.c
+
+demofile:
+	copy employee.dat build\employee.dat
+
+clean:
+	del build\wms.exe
+	del build\employee.dat
