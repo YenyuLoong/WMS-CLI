@@ -24,9 +24,14 @@
   <p><code>gcc -o wms.exe wms.c</code></p>
 
 **二、添加Demo演示数据文件**
+
 *（这不是必要的，Demo演示数据文件中预先包含了一些演示用的员工数据，并且，程序运行时候若没有发现数据文件，会新建一个空的数据文件）*
 
 * 使用MinGW make自动构建：
   <p><code>mingw32-make -f Makefile.win demofile</code></p>
 * 手动复制：
   <p><code>copy employee.dat build\employee.dat</code></p>
+
+## 关于数据文件
+**所有员工的数据是以文本文件的形式保存在与程序同目录下的employee.dat文件中，以简单的明文形式存储**
+
