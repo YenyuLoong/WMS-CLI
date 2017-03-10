@@ -3,5 +3,7 @@
 ## 获取源代码
   * 通过git：
       <p><code>git clone https://github.com/paslone/WMS-CLI.git</code></p>
-  * 下载zip包
+  * 下载zip包：
+      <p><a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目zip包</a></p>
+
 ## 源代码编译
