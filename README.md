@@ -4,6 +4,6 @@
 ### 通过git：
 * <p><code>git clone https://github.com/paslone/WMS-CLI.git</code></p>
 ### 下载zip包：
-* <p><a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目archive包(zip)</a></p>
+* <p><a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目ZIP包</a></p>
 
 ## 源代码编译
