@@ -17,13 +17,13 @@
 
 ## 构建项目
 ### Windows操作系统（最好把MinGW中的bin目录添加到系统的PATH环境变量中）
-1.编译源代码
+1. 编译源代码
 * 使用MinGW make自动构建：
   <p><code>mingw32-make -f Makefile.win</code></p>
 * 使用MinGW GCC手动编译构建：
   <p><code>gcc -o wms.exe wms.c</code></p>
 
-2.添加Demo演示数据文件
+2. 添加Demo演示数据文件
 *（这不是必要的，Demo演示数据文件中预先包含了一些演示用的员工数据，并且，程序运行时候若没有发现数据文件，会新建一个空的数据文件）*
 
 * 使用MinGW make自动构建：
