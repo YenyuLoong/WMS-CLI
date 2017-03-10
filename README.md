@@ -8,10 +8,10 @@
 ![wms](https://github.com/paslone/WMS-CLI/raw/master/pictures/wms.png)
 ## 获取源代码
 ### Git版本控制工具：
-* <code>git clone https://github.com/paslone/WMS-CLI.git</code>
+* **<code>git clone https://github.com/paslone/WMS-CLI.git</code>**
 
 ### 下载zip压缩包：
-* <a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目ZIP压缩包</a>
+* **<a href="https://github.com/paslone/WMS-CLI/archive/master.zip">项目ZIP压缩包</a>**
 
 ---
 
