@@ -5,7 +5,7 @@
 **这是一个Very Very Stupid的基于CLI和ASCII数据文件的工资管理系统演示程序（Wages Management System Demo）（目前仅支持Windows操作系统）**
 
 ---
-
+![wms](https://github.com/paslone/WMS-CLI/raw/master/pictures/wms.png)
 ## 获取源代码
 ### Git版本控制工具：
 * <code>git clone https://github.com/paslone/WMS-CLI.git</code>
@@ -34,4 +34,4 @@
 
 ## 关于数据文件
 **所有员工的数据是以文本文件的形式保存在与程序同目录下的employee.dat文件中，以简单的明文形式存储**
-
+![employee_data](https://github.com/paslone/WMS-CLI/raw/master/pictures/employee_data.png)
