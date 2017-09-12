@@ -5,13 +5,13 @@
 **这是一个Very Very Stupid的基于CLI和ASCII数据文件的工资管理系统演示程序（Wages Management System Demo）（目前仅支持Windows操作系统）**
 
 ---
-![wms](https://github.com/longyanyu-cs/WMS-CLI/raw/master/pictures/wms.png)
+![wms](https://github.com/yenyuloong/WMS-CLI/raw/master/pictures/wms.png)
 ## 获取源代码
 ### Git版本控制工具：
-* **<code>git clone https://github.com/longyanyu-cs/WMS-CLI.git</code>**
+* **<code>git clone https://github.com/yenyuloong/WMS-CLI.git</code>**
 
 ### 下载zip压缩包：
-* **<a href="https://github.com/longyanyu-cs/WMS-CLI/archive/master.zip">项目ZIP压缩包</a>**
+* **<a href="https://github.com/yenyuloong/WMS-CLI/archive/master.zip">项目ZIP压缩包</a>**
 
 ---
 
@@ -34,4 +34,4 @@
 
 ## 关于数据文件
 **所有员工的数据是以文本文件的形式保存在与程序同目录下的employee.dat文件中，以简单的明文形式存储**
-![employee_data](https://github.com/longyanyu-cs/WMS-CLI/raw/master/pictures/employee_data.png)
+![employee_data](https://github.com/yenyuloong/WMS-CLI/raw/master/pictures/employee_data.png)
